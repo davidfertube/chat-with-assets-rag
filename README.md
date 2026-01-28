@@ -26,7 +26,7 @@ tags:
 
 ## Overview
 
-**Enterprise Knowledge Retrieval** is a production-grade agentic RAG pipeline designed for Energy & Commodities operations. It features semantic chunking, OpenAI embeddings, Pinecone vector search, and LangGraph multi-agent orchestration to deliver expert-level answers from massive technical documentation.
+**Enterprise RAG** is an experimental agentic RAG pipeline for industrial document Q&A using LangChain, Pinecone vector search, and multi-agent orchestration. This experiment explores how technical documentation can be made searchable through semantic chunking and multi-agent workflows for accurate technical document retrieval, moving beyond simple keyword matching to contextual answers.
 
 ## System Architecture
 
